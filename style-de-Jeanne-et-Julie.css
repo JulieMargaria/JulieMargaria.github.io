@@ -1,0 +1,50 @@
+<html>
+body, div {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: floralwhite;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+img { 
+	float: left; 
+	margin-right: 20px;
+	width: 400px;
+	height: 600px;
+}
+th { width: 400px;}
+ul { list-style-type: square; } 
+
+#entete-de-page {
+	padding: 5px;
+	height: 100px;
+	background-color: darksalmon;
+	font-size: 32px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+}
+#bloc-menu {
+	height: 36px;
+	background-color: blanchedalmond;
+	float: center;
+	color: black;
+}
+#contenu {
+	padding: 10px;
+	background-color: floralwhite;
+}
+#infos {
+	color: darkblue;
+	font-style: italic;
+	float: bottom;
+}
+#pied-de-page {
+	padding: 5px;
+	background-color: floralwhite;
+	font-size: 11px;
+}
+</html>
+	
